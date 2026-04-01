@@ -3,7 +3,7 @@
 
 
 ### 🤖 StatPilot
-Developed a data-driven tool for statistical analysis and prediction, integrating structured data workflows with automated insights.  
+Predict NBA player prop outcomes through applied machine learning with an interactive web app. Won the Innovation Launchpad Award at DataHacks 2025. 
 
 
 ### 🌐 Portfolio
