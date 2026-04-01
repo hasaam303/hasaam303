@@ -1,6 +1,6 @@
 ## 📁 Projects
 
-📈 AI Automated Data Analyzer
+### 📈 AI Automated Data Analyzer
 Built a full-stack AI system that transforms CSV data into automated EDA, interactive visualizations, machine learning models, and LLM-generated insights.  
 [GitHub Repo](https://github.com/hasaam303/AI-Automated-Data-Analyzer)
 
