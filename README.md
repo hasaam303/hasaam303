@@ -19,8 +19,8 @@ Contributor — implemented front-end visualizations and data integration for dy
 Built an end-to-end analytics pipeline on professional LoL match data (2024–2025), including data cleaning, exploratory analysis, hypothesis testing, and predictive modeling to forecast match outcomes.  
 
 
-### 📊 Deceptive Visualization
-Created a dual-perspective visualization highlighting how the same data can support opposing arguments, emphasizing the importance of ethical data presentation.  
+### 📊 Youth Population in Africa
+Visualizes how youth population changes over time in Africa. Created a dual-perspective visualization highlighting how the same data can support opposing arguments, emphasizing the importance of ethical data presentation.  
 
 
 ### 🚴 BikeAge
