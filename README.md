@@ -2,11 +2,11 @@
 
 📈### 🤖 AI Automated Data Analyzer
 Built a full-stack AI system that transforms CSV data into automated EDA, interactive visualizations, machine learning models, and LLM-generated insights.  
-[GitHub Repo]([link](https://github.com/hasaam303/AI-Automated-Data-Analyzer))
+[GitHub Repo](https://github.com/hasaam303/AI-Automated-Data-Analyzer)
 
 ### 🤖 StatPilot
 Predict NBA player prop outcomes through applied machine learning with an interactive web app. Won the Innovation Launchpad Award at DataHacks 2025. 
-[GitHub Repo]([link](https://github.com/hasaam303/Statpilot))
+[GitHub Repo](https://github.com/hasaam303/Statpilot)
 
 ### 🌐 Portfolio
 Designed and deployed a personal portfolio website to showcase projects, technical skills, and data-driven work.  
