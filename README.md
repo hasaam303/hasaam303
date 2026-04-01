@@ -1,18 +1,22 @@
 ## 📁 Projects
 
-
+📈### 🤖 AI Automated Data Analyzer
+Built a full-stack AI system that transforms CSV data into automated EDA, interactive visualizations, machine learning models, and LLM-generated insights.  
+[GitHub Repo]([link](https://github.com/hasaam303/AI-Automated-Data-Analyzer))
 
 ### 🤖 StatPilot
 Predict NBA player prop outcomes through applied machine learning with an interactive web app. Won the Innovation Launchpad Award at DataHacks 2025. 
-
+[GitHub Repo]([link](https://github.com/hasaam303/Statpilot))
 
 ### 🌐 Portfolio
 Designed and deployed a personal portfolio website to showcase projects, technical skills, and data-driven work.  
+[GitHub Repo]([link](https://github.com/hasaam303/Portfolio)
 
 
 ### 🧊 IceCoreBubbles
 Developed an interactive, scroll-driven D3.js visualization to explore CO₂ trends in Antarctic ice cores, transforming raw climate data into engaging, narrative-driven insights.  
 Contributor — implemented front-end visualizations and data integration for dynamic user interaction.  
+[GitHub Repo]([link](https://github.com/KeanuVentura/IceCoreBubbles)
 
 
 ### 🎮 League of Legends Esports Predictor
